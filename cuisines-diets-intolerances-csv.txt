@@ -1,0 +1,48 @@
+cuisine,African
+cuisine,American
+cuisine,British
+cuisine,Cajun
+cuisine,Caribbean
+cuisine,Chinese
+cuisine,Eastern European
+cuisine,European
+cuisine,French
+cuisine,German
+cuisine,Greek
+cuisine,Indian
+cuisine,Irish
+cuisine,Italian
+cuisine,Japanese
+cuisine,Jewish
+cuisine,Korean
+cuisine,Latin American
+cuisine,Mediterranean
+cuisine,Mexican
+cuisine,Middle Eastern
+cuisine,Nordic
+cuisine,Southern
+cuisine,Spanish
+cuisine,Thai
+cuisine,Vietnamese
+diet,Gluten Free
+diet,Ketogenic
+diet,Vegetarian
+diet,Lacto-Vegetarian
+diet,Ovo-Vegetarian
+diet,Vegan
+diet,Pescetarian
+diet,Paleo
+diet,Primal
+diet,Whole30
+intolerances,Dairy
+intolerances,Egg
+intolerances,Gluten
+intolerances,Grain
+intolerances,Peanut
+intolerances,Seafood
+intolerances,Sesame
+intolerances,Shellfish
+intolerances,Soy
+intolerances,Sulfite
+intolerances,Tree Nut
+intolerances,Wheat
