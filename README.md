@@ -51,10 +51,14 @@ Heroku add-on [ClearDB](https://devcenter.heroku.com/articles/cleardb) is used. 
 4. `409` - Conflict (usually when trying to register already registered user)
 5. `500` - Internal Server Error (usually SQL or external API, e.g. FK constraint failed, or Spoonacular API request failed)
 ## Deployment:
-[Heroku App](https://recipe-planner-app.herokuapp.com/)
-## API documentation:
-[Postman](https://documenter.getpostman.com/view/5782940/SzzdBzzN?version=latest)
+  - [REST API on Heroku](https://recipe-planner-app.herokuapp.com/)
+  - [Frontend on Heroku](https://recipe-planner-application.herokuapp.com/)
+## Postman Docs:
+[Postman Collection](https://documenter.getpostman.com/view/5782940/SzzdBzzN?version=latest)
 ## 3-rd party API:
- [Spoonacular API](https://spoonacular.com/food-api/)
+  - [Spoonacular API](https://spoonacular.com/food-api/)
   - [Supported tags (cuisines, diets, intolerances)](cuisines-diets-intolerances-csv.txt) - can be used with `/random`, `/search` and `/preferences` endpoints.
-  
+## Contributors
+  - Kyrylo Terentiev
+  - Patrick Andriamaso
+  - Florian Göth
